@@ -1,0 +1,21 @@
+body {
+	font-family: "Times New Roman", Helvetic, serif;
+	background-color: rgba(110, 200, 100, 0.3);
+}
+
+h1 {
+	color: blue;
+}
+
+h3 {
+	color: lightblue;
+}
+
+ul li {
+	font-size: 14px;
+	font-weight: bold;
+}
+
+ol li {
+	font-size: 11px;
+}
